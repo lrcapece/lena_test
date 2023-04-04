@@ -10,3 +10,5 @@ test repo for git and github lesson
 
 Lena Capece is PhD candidate at UCSB. Please email Lena via [email](mailto:lcapece@ucsb.edu) with questions.
 
+## code short cuts in terminal 
+- git config pull.rebase false (to signal to git to immediately pull for a given repository would need to do this every time you create a new repository)
