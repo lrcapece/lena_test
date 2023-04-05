@@ -22,3 +22,18 @@ HELLLo there!
 ## Git workflow
 
 ## "How to Create a Git Repository"
+
+1. First login to your GitHub account
+2. Once in your account, click on the "New" button (green) to create a new repository
+3. Name the new repository
+4. Add a short description
+5. Check the box to add a `README.md` file
+6. Add a `.gitignore` file by selecting the "R" template
+7. It's suggested to also set a `LICENSE`, Apache 2.0 is a preferred option, but you can look into the different license options and select what's best for you
+8. Then you will want to clone the repository by selecting the green button `<> Code` and copying the link url
+9. When you're in RStudio you can add a "New Project"
+10. This will bring up a window, select "Version Control"
+11. Paste in the repository url
+12. Press 'Tab' and the Project directory name will auto fill
+13. Then click "Create Project" 
+
