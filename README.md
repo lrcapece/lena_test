@@ -17,3 +17,12 @@ Lena Capece is PhD candidate at UCSB. Please email Lena via [email](mailto:lcape
 ## Collin's comment
 
 HELLLo there!
+
+## Git workflow 
+
+This workflow has 4 primary spaces: Workspace, Staging index, Local repository, Remote repository, where pushing, pulling and are necessary. 
+
+1) Make a public respository on Github
+2) Clone that repository to your local environment by Copying the URL 
+3) Open a new project on Rstudio select "Version Control" and Paste the URL. Hit "Create Project"
+4) You should now have all files associated with the Github and the one you created on Rstudio
