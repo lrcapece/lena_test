@@ -29,8 +29,6 @@ This workflow has 4 primary spaces: Workspace, Staging index, Local repository, 
 3)  Open a new project on Rstudio select "Version Control" and Paste the URL. Hit "Create Project"
 4)  You should now have all files associated with the Github and the one you created on Rstudio
 
-## Git workflow
-
 ## "How to Create a Git Repository"
 
 1.  First login to your GitHub account
