@@ -1,6 +1,6 @@
 # lena_test
 
-test repo for git and github lessoN. 
+Test repo for git and github lesson
 
 ## purpose
 
