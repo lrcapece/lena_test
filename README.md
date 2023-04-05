@@ -14,3 +14,6 @@ Lena Capece is PhD candidate at UCSB. Please email Lena via [email](mailto:lcape
 - git config pull.rebase false (to signal to git to immediately pull for a given repository would need to do this every time you create a new repository)
 - notes on how to set up/configure the terminal are in the online text
 
+## Collin's comment
+
+HELLLo there!
