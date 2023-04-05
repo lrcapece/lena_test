@@ -45,3 +45,4 @@ This workflow has 4 primary spaces: Workspace, Staging index, Local repository, 
 12. Press 'Tab' and the Project directory name will auto fill
 13. Then click "Create Project" 
 
+## Creating a conflict
