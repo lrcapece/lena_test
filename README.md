@@ -5,7 +5,7 @@ Test repo for git and github lesson
 ## purpose
 
 -   create a remote repository on GitHub
--   practice Git workfLow
+-   practice Git workflow
 
 ## creator
 
